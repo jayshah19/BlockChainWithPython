@@ -39,7 +39,8 @@ class Blockchain:
         Determine if a given blockchain is valid
 
         :param chain: A blockchain
-        :return: True if valid, False if not
+        :return: True if valid,
+        False if not
         """
 
         last_block = chain[0]
